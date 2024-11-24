@@ -19,19 +19,6 @@ Welcome to **TweetGram**! This is a Django-based project inspired by a mix of Tw
 - **CSRF Protection**:
   - All forms are protected using Django's CSRF tokens to ensure security.
 
-Register, login, and logout functionality.
-Secure password management using Django's built-in authentication system.
-Tweet Management:
-
-Create, edit, and delete tweets.
-List all tweets in reverse chronological order.
-User-friendly UI:
-
-Clean and minimalistic design inspired by Instagram.
-Responsive interface for both desktop and mobile users.
-CSRF Protection:
-
-All forms are protected using Django's CSRF tokens to ensure security.
 
 ![image](https://github.com/user-attachments/assets/1d9f47f9-e635-45aa-b072-c133f28ce952)
 
@@ -44,3 +31,14 @@ Register, login, and logout functionality.
 Secure password management using Django's built-in authentication system.
 
 ![image](https://github.com/user-attachments/assets/9799fba1-3e0c-4be2-b339-29e8b7561a91)
+
+
+
+## Installation and Setup
+
+### Set Up a Virtual Environment:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+```
