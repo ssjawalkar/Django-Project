@@ -1,8 +1,23 @@
 # Django-Project
 # TweetGram
+Welcome to **TweetGram**! This is a Django-based project inspired by a mix of Twitter and Instagram. It allows users to create, view, edit, and delete tweets while bringing the simplicity and aesthetics of Instagram to the platform. The project is designed to demonstrate full-stack development with Django.
 
-Features
-User Authentication:
+## Features
+
+- **User Authentication**:
+  - Register, login, and logout functionality.
+  - Secure password management using Django's built-in authentication system.
+
+- **Tweet Management**:
+  - Create, edit, and delete tweets.
+  - List all tweets in reverse chronological order.
+
+- **User-friendly UI**:
+  - Clean and minimalistic design inspired by Instagram.
+  - Responsive interface for both desktop and mobile users.
+
+- **CSRF Protection**:
+  - All forms are protected using Django's CSRF tokens to ensure security.
 
 Register, login, and logout functionality.
 Secure password management using Django's built-in authentication system.
