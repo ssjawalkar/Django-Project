@@ -42,3 +42,14 @@ Secure password management using Django's built-in authentication system.
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 ```
+
+### Install Dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+### Run the Development Server:
+```bash
+python manage.py runserver
+```
+
